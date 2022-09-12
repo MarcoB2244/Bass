@@ -9,7 +9,7 @@ DESID. Oh! sior patron, la sa con quanta attenzion, con quanta fedeltà l'ho ser
 TOD. Me servirè per gnente? (con più dolcezza)
   Mi servirete per niente (Condoleeza) sbagliato apposta
 DESID. Sior sì, ghe lo prometto.
-  Sugnor sì, glielo premetto
+  Sugnor sì, glielo prometto
 FORT. Sior sì, sior sì, el ve servirà per gnente. Ma de aria no se vive. El ve servirà per gnente, e el se pagherà da so posta. (a Todero, forte)
 
 DESID. Cossa gh'ìntrela ela? Me vorla veder precipità?
